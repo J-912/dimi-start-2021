@@ -1,4 +1,7 @@
 # dimi-start-2021
+
+[projet cours (Jonathan Joux)](https://github.com/J-912/dimi-start-2021)
+
 ## pré-requis
 - [git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
