@@ -1,5 +1,5 @@
 # dimi-start-2021
-## pré-requi
--
+## pré-requis
+- [git](google.fr)
 -
 -
