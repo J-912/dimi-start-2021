@@ -1,6 +1,6 @@
 # dimi-start-2021
 
-[projet cours (Jonathan Joux)](https://github.com/J-912/dimi-start-2021)
+[projet cours (prof)](https://github.com/jniac/dimi-start-2021)
 
 ## pré-requis
 - [git](https://git-scm.com/)
