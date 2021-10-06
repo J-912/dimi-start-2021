@@ -34,3 +34,7 @@ const submit = (x) => {
 const cheat = () => {
     console.log(`The mystery number is ${mysteryNumber}`)
 }
+
+const distance = (x, y) => {
+    return 
+  }
