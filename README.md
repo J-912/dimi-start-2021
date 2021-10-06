@@ -27,5 +27,3 @@ essayer ceci dans le terminal :
 ```
 git push -u origin main
 ```
-
-test
