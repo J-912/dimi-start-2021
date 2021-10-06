@@ -17,7 +17,7 @@ const submit = (x) => {
     }
     if (x == mysteryNumber){
         console.log('Hurrah!')
-        document.body.innerHTML = '<h1>Hurrah!</h1>'
+        document.body.innerHTML = '<h1>Hurrah</h1>'
         document.body.style.backgroundColor = '#33ff6e'
     }
 }
