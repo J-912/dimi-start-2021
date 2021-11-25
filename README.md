@@ -2,6 +2,8 @@
 
 [projet cours (prof)](https://github.com/jniac/dimi-start-2021)
 
+[projet collab](https://github.com/jniac/dimi-m2-work-21-22)
+
 ## pré-requis
 - [git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
